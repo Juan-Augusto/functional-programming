@@ -1,7 +1,10 @@
-Projeto de programação funcional
+# Projeto de programação funcional
+
 ### Escopo do Projeto: Task Manager
 #### Visão Geral:
 O Task Manager é uma aplicação simples para gerenciar tarefas. Ele permite aos usuários adicionar, remover, listar, ordenar e marcar tarefas como concluídas.
+
+
 
 
 1. **Adicionar Tarefa:**
@@ -49,3 +52,9 @@ O Task Manager é uma aplicação simples para gerenciar tarefas. Ele permite ao
 ### Observação:
 
 - Foi utilizado auxílio de um assistente de IA para auxílio na geração dos testes, pois a equipe não tinha nenhuma experiência com testes unitários usando Python.
+
+
+    
+## Autores
+
+- [@Juan-Augusto](https://github.com/Juan-Augusto)
